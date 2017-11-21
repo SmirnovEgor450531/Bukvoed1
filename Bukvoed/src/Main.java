@@ -5,6 +5,7 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
+import java.lang.Object;
 
 import javafx.scene.control.Label;
 
@@ -25,7 +26,8 @@ public class Main extends Application {
         rot.setPadding(new Insets(20,20,20,20));
         rot.setHgap(6);
         rot.setVgap(6);
-        TextField name =new TextField();
+        TextField name =new TextField("dsadasdsa asdasdasda");
+        StringBuilder
         TextField name1 =new TextField();
         Label s1 = new Label("1");
         Label s2 = new Label("2");
