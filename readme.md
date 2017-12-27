@@ -8,3 +8,13 @@
 Язык разработки : java
 
 Системные требования : Совместимо с Windows, Linux, macOS. Для приложения требуется наличие установленного Java Version 8 Update 151 , так как запускаемый файл имеет расширение .jar.
+
+Полезные ссылки :
+
+Требования к проекту - https://github.com/SmirnovEgor450531/Bukvoed1/tree/master/Software%20requirements%20specification
+
+Use Case - https://github.com/SmirnovEgor450531/Bukvoed1/tree/master/Diagrams/usecase
+
+Diagrams - https://github.com/SmirnovEgor450531/Bukvoed1/tree/master/Diagrams
+
+Main project - https://github.com/SmirnovEgor450531/Bukvoed1/tree/master/Bukvoed
